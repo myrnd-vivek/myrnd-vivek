@@ -1,6 +1,6 @@
 ## Hey! 👋
-- 👋 Hi, I’m @vivacious0145
-- 👀 I’m interested in FrontEnd
+- 👋 Hi, I’m @Vivek
+- 👀 I’m interested in Frontend Technologies
 - 🌱 I’m currently learning RxJS
 - 💞️ I Love to explore in Javascript
 
